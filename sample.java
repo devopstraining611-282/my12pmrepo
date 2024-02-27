@@ -4,3 +4,7 @@ public static void main(){
 public void siva(){
 	system.out.println("My name is Sivateja");
 }
+public void asifa(){
+	system.out.println("My name is Asifa");
+}
+

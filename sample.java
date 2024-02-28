@@ -7,4 +7,6 @@ public void siva(){
 public void asifa(){
 	system.out.println("My name is Asifa");
 }
-
+public void thouseef(){
+	system.out.println("My name is Thouseef");
+}

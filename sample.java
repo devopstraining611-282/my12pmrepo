@@ -22,3 +22,6 @@ public void rishika(){
 public void vani(){
 	system.out.println("My name is Vani");
 }
+public void suryavardhan(){
+	system.out.println("My name is Suryavardhan");
+}

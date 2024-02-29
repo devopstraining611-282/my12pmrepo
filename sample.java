@@ -16,3 +16,6 @@ public void ashok(){
 public void soujanya(){
 	system.out.println("My name is Soujanya");
 }
+public void rishika(){
+	system.out.println("My name is Rishika");
+}
